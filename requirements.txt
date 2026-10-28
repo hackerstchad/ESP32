@@ -1,0 +1,26 @@
+# ESP32 MicroPython IDE
+# Auteur : hackers_tchad
+# Date   : 2026
+
+# Interface graphique
+Pillow>=10.0.0
+
+# Communication série avec l'ESP32
+pyserial>=3.5
+
+# Outils MicroPython / ESP
+# esptool est optionnel mais recommandé pour flasher le firmware officiel
+esptool>=4.6.0
+
+# Découverte réseau optionnelle (OTA, WebREPL)
+zeroconf>=0.100.0
+
+# Gestion des ports et utilitaires
+pyusb>=1.2.1
+
+# Tests et qualité (optionnel pour le développement)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
