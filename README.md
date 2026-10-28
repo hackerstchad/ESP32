@@ -119,7 +119,7 @@ Cette séparation permet de maintenir le code facilement, d'ajouter des fonction
 1. Clonez ou extrayez le projet :
 
 ```bash
-git clone https://github.com/hackers_tchad/esp32-ide.git
+git clone https://github.com/hackerstchad/ESP32.git
 cd esp32-ide
 ```
 
@@ -554,7 +554,7 @@ Merci à la communauté MicroPython, à Espressif Systems, aux contributeurs de 
 ## Contact
 
 - Auteur : `hackers_tchad`
-- Dépôt GitHub : https://github.com/hackers_tchad/esp32-ide
+- Dépôt GitHub : https://github.com/hackerstchad/ESP32
 - Année : 2026
 
 ---
